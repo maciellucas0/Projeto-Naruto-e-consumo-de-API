@@ -1,3 +1,7 @@
+# Projeto Naruto 
+✅-https://projeto-naruto-e-consumo-de-api-git-main-lucas-maciel.vercel.app/personagens
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
